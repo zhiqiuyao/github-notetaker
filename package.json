@@ -22,7 +22,8 @@
   "homepage": "https://github.com/zhiqiuyao/github-notetaker#readme",
   "dependencies": {
     "react": "^15.2.0",
-    "react-dom": "^15.2.0"
+    "react-dom": "^15.2.0",
+    "react-router": "^2.5.2"
   },
   "devDependencies": {
     "babel-core": "^6.10.4",
