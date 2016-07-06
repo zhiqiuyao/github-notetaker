@@ -1,0 +1,33 @@
+{
+  "name": "github-notetaker",
+  "version": "1.0.0",
+  "description": "利用github提供的API,可通过用户名搜索用户及相关作品、笔记",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhiqiuyao/github-notetaker.git"
+  },
+  "keywords": [
+    "react",
+    "github"
+  ],
+  "author": "Thanos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhiqiuyao/github-notetaker/issues"
+  },
+  "homepage": "https://github.com/zhiqiuyao/github-notetaker#readme",
+  "dependencies": {
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.9.0",
+    "babel-preset-react": "^6.11.1"
+  }
+}
